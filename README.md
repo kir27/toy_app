@@ -1,0 +1,1 @@
+toy_app from Michael Hurtl`s Rails tutorail
